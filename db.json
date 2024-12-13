@@ -1,0 +1,201 @@
+{
+  "slider": [
+    {
+      "title": "30 Fresh music for you every week",
+      "image": "assets/images/yourDiscover.png",
+      "id": "8b94"
+    },
+    {
+      "title": "New songs every friday",
+      "image": "assets/images/friday.png",
+      "id": "55a5"
+    }
+  ],
+  "topMixes": [
+    {
+      "title": "Hip Hop Mix",
+      "description": "Juice Wrld, Drake, Kendrick Lamar and more...",
+      "image": "assets/images/music1.png",
+      "color": "#EF0CAF",
+      "id": "a92c"
+    },
+    {
+      "title": "Moody Mix",
+      "description": "Joji, The Kid LAROI, Tate McRae and more...",
+      "image": "assets/images/music2.png",
+      "color": "#FFFF00",
+      "id": "e79a"
+    },
+    {
+      "title": "House Mix",
+      "description": "Martin Garrix, The Chainsmoker and more...",
+      "image": "assets/images/music3.png",
+      "color": "#1ED760",
+      "id": "fc33"
+    }
+  ],
+  "artists": [
+    {
+      "image": "assets/images/artist1.png",
+      "name": "The Kid LAROI",
+      "id": "fdba"
+    },
+    {
+      "image": "assets/images/artist2.png",
+      "name": "Taylor Swift",
+      "id": "f777"
+    },
+    {
+      "image": "assets/images/artist3.png",
+      "name": "Post Malone",
+      "id": "bd5e"
+    }
+  ],
+  "searchList": [
+    {
+      "id": "1",
+      "name": "The Kid LAROI"
+    },
+    {
+      "id": "2",
+      "name": "Drake"
+    },
+    {
+      "id": "3",
+      "name": "Justin Bieber"
+    },
+    {
+      "id": "4",
+      "name": "Joji"
+    },
+    {
+      "id": "5",
+      "name": "Hip Hop"
+    },
+    {
+      "id": "6",
+      "name": "Pop"
+    },
+    {
+      "id": "7",
+      "name": "Top-Hits"
+    }
+  ],
+  "podCast": [
+    {
+      "title": "Impaulsive",
+      "description": "334 ep.",
+      "image": "assets/images/impaulsive.png",
+      "id": "48dc"
+    },
+    {
+      "title": "TED Talks Daily",
+      "description": "155 ep.",
+      "image": "assets/images/tedTalk.png",
+      "id": "dadc"
+    },
+    {
+      "title": "Mom’s Basement",
+      "description": "75 ep.",
+      "image": "assets/images/momsBasement.png",
+      "id": "7059"
+    }
+  ],
+  "playList": [
+    {
+      "image_1": "assets/images/playList1.png",
+      "image_2": "assets/images/playList2.png",
+      "image_3": "assets/images/playList3.png",
+      "image_4": "assets/images/playList4.png",
+      "title": "Playlist #1",
+      "id": "9d01"
+    },
+    {
+      "image_1": "assets/images/playList5.png",
+      "image_2": "assets/images/playList6.png",
+      "image_3": "assets/images/playList7.png",
+      "image_4": "assets/images/playList8.png",
+      "title": "Playlist #2",
+      "id": "de87"
+    },
+    {
+      "image_1": "assets/images/playList9.png",
+      "image_2": "assets/images/playList10.png",
+      "image_3": "assets/images/playList11.png",
+      "image_4": "assets/images/playList12.png",
+      "title": "Playlist #3",
+      "id": "d386"
+    },
+    {
+      "image_1": "assets/images/playList13.png",
+      "image_2": "assets/images/playList14.png",
+      "image_3": "assets/images/playList3.png",
+      "image_4": "assets/images/playList16.png",
+      "title": "Playlist #4",
+      "id": "1767"
+    }
+  ],
+  "topHit": [
+    {
+      "image": "assets/images/music1.png",
+      "title": "stay",
+      "description": "The Kid LAROI, Justin Bieber",
+      "favorite": true,
+      "id": "fd38"
+    },
+    {
+      "image": "assets/images/wishingWall.png",
+      "title": "Wishing Well",
+      "description": "Juice WLRD",
+      "favorite": false,
+      "id": "0356"
+    },
+    {
+      "image": "assets/images/jack.png",
+      "title": "First Class",
+      "description": "Jack Harlow",
+      "favorite": true,
+      "id": "1aa7"
+    },
+    {
+      "image": "assets/images/Frame1.png",
+      "title": "Unstable",
+      "description": "Justin Bieber, The Kid LAROI",
+      "favorite": false,
+      "id": "8e2d"
+    },
+    {
+      "image": "assets/images/Group25.png",
+      "title": "Unstable",
+      "description": "Justin Bieber, The Kid LAROI",
+      "favorite": false,
+      "id": "d272"
+    }
+  ],
+  "songs": [
+    {
+      "name": "6th Summer",
+      "artist": "PLAVE",
+      "genre": "K-Pop",
+      "releaseDate": "2024",
+      "id": "2"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "testuser@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "email": "johndoe@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "3",
+      "email": "lily@gmail.com",
+      "password": "lily"
+    }
+  ]
+}
