@@ -4,7 +4,7 @@ import 'dart:convert';
 
 class ApiService {
   var client = http.Client();
-  static const String baseUrl = 'http://10.90.34.238:3000'; // Base URL
+  static const String baseUrl = 'http://10.90.33.254:3000'; // Base URL
 
   // Fetch Slider list
   Future<List<SliderModel>?> getSliders() async {
@@ -199,8 +199,7 @@ class ApiService {
 
       // Cek apakah email dan password cocok dengan data
       final matchingUser = users.firstWhere(
-        (u) =>
-            u['email'] == user.email && u['password'] == user.password,
+        (u) => u['email'] == user.email && u['password'] == user.password,
         orElse: () => null,
       );
 
